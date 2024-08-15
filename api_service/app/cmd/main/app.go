@@ -117,3 +117,4 @@ func start(router *httprouter.Router, logger logging.Logger, cfg *config.Config)
 		}
 	}
 }
+
